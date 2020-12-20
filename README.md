@@ -5,4 +5,4 @@ My pet projects I create in a work-free time (order by creation date):
 - [Introduction form](https://github.com/ibednarczyk/introduction-form) (Java application using Java Swing library)
 - [Sorting tool](https://github.com/ibednarczyk/sorting-tool)
 - [Hotel booking](https://github.com/ibednarczyk/hotel-booking)
-- Price converter (to be updated)
+- [Price converter](https://github.com/ibednarczyk/price-converter)
