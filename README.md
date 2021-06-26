@@ -6,3 +6,4 @@ My pet projects I create in a work-free time (order by creation date):
 - [Sorting tool](https://github.com/ibednarczyk/sorting-tool)
 - [Hotel booking](https://github.com/ibednarczyk/hotel-booking)
 - [Price converter](https://github.com/ibednarczyk/price-converter)
+- [Workshop REST API .NET](https://github.com/ibednarczyk/workshops-rest-api)
